@@ -1,6 +1,7 @@
 {
-	"name”:"petshop",
-	"thumbnail":"stitch.png",
+	"name":"pet",
+	"thumbnail":"pet.png",
+	"screenshot":"pet.png",
 	"templateType":"standard",
             "pageTypes": [
         "home"
